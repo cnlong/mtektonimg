@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.39.0@sha256:e0afeceb58d73b7c162a8f2aac5b2addf8527d11750e4e885cc4178b65627afb
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/nop:v0.39.0@sha256:267dcd865a41dab421a934341ff19fe681c006a922fb84d3eb17033eab4d4374
 MAINTAINER cnlong
