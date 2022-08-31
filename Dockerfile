@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.39.0@sha256:932a1536223ea48d3bb36d4934830b767d46d44479e9fd4d95dc751e4bf0e365
+FROM ghcr.io/distroless/busybox@sha256:19f02276bf8dbdd62f069b922f10c65262cc34b710eea26ff928129a736be791
 MAINTAINER cnlong
